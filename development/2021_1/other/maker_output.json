@@ -1,0 +1,110 @@
+{
+    "0x9c582560742a99ac2a81e085cce006101d1575fe": {
+        "products": [
+            {
+                "label": "Maker",
+                "assets": [
+                    {
+                        "type": "collateral",
+                        "category": "deposit",
+                        "address": "0x0000000000000000000000000000000000000000",
+                        "symbol": "ETH",
+                        "decimals": 18,
+                        "label": "ETH in Maker Vault #21743",
+                        "img": "ETH-icon.png",
+                        "protocol": "maker",
+                        "protocolDisplay": "Maker",
+                        "protocolSymbol": "MKR",
+                        "price": 3517.85,
+                        "balance": 0.01,
+                        "balanceUSD": 35.1785
+                    },
+                    {
+                        "type": "collateral",
+                        "category": "deposit",
+                        "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+                        "symbol": "AAVE",
+                        "decimals": 18,
+                        "label": "AAVE in Maker Vault #22913",
+                        "img": "AAVE-icon.png",
+                        "protocol": "maker",
+                        "protocolDisplay": "Maker",
+                        "protocolSymbol": "MKR",
+                        "price": 658.3,
+                        "balance": 500,
+                        "balanceUSD": 329150
+                    },
+                    {
+                        "type": "collateral",
+                        "category": "debt",
+                        "symbol": "DAI",
+                        "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+                        "decimals": 18,
+                        "label": "Borrowed DAI",
+                        "img": "DAI-icon.png",
+                        "protocol": "maker",
+                        "protocolDisplay": "Maker",
+                        "protocolSymbol": "MKR",
+                        "price": 1,
+                        "balance": 58722.88613521299,
+                        "balanceUSD": -58722.88613521299
+                    }
+                ],
+                "meta": [
+                    {
+                        "label": "Collateral",
+                        "value": 329185.1785,
+                        "type": "dollar"
+                    },
+                    {
+                        "label": "Debt",
+                        "value": -58722.88613521299,
+                        "type": "dollar"
+                    },
+                    {
+                        "label": "C-Ratio",
+                        "value": 560.5739093647938,
+                        "type": "pct"
+                    }
+                ]
+            }
+        ],
+        "meta": [
+            {
+                "label": "Total",
+                "value": 270462.29236478696,
+                "type": "dollar"
+            },
+            {
+                "label": "Assets",
+                "value": 329185.1785,
+                "type": "dollar"
+            },
+            {
+                "label": "Debt",
+                "value": -58722.88613521299,
+                "type": "dollar"
+            }
+        ]
+    },
+    "0xf730f608190873c84501bce9755ccbc0e53cd0ec": {
+        "products": [],
+        "meta": [
+            {
+                "label": "Total",
+                "value": 0,
+                "type": "dollar"
+            },
+            {
+                "label": "Assets",
+                "value": 0,
+                "type": "dollar"
+            },
+            {
+                "label": "Debt",
+                "value": 0,
+                "type": "dollar"
+            }
+        ]
+    }
+} 
